@@ -1,4 +1,4 @@
-# Fader
+# FadingImageView
 Use it like a standard UIImageView. The Image will fade in and fade out forever. Intended to be used as a progress indicator.
 
     import UIKit
