@@ -1,5 +1,5 @@
 # Fader
-Loop-fading UIImageView
+Use it like a standard UIImageView. The Image will fade in and fade out forever. Intended to be user as a progress indicator.
 
     import UIKit
 
